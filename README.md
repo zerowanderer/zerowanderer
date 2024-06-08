@@ -1,3 +1,10 @@
-I'm Wander, interesting in low level programming, AI , and future. 
+Hello, I am Wander.
+I have a deep interest in low-level programming, artificial intelligence, and the future of technology. Currently, I am a student of web development, with knowledge in Java, Spring, and some JavaScript. Additionally, I am a self-taught Rust enthusiast.
 
-Student
+Skills:
+
+Java
+Spring
+JavaScript
+Rust 
+
