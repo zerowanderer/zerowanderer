@@ -3,8 +3,8 @@ I have a deep interest in low-level programming, artificial intelligence, and th
 
 Skills:
 
-Java
-Spring
-JavaScript
+Java <br>
+Spring <br>
+JavaScript <br>
 Rust 
 
